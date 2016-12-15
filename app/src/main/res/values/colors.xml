@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#9C27B0</color>
+    <color name="colorPrimaryDark">#000000</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="backgroundColor">#FFF7DA</color>
+    <color name="category_family">#81C784</color>
+    <color name="category_colors">#9575CD</color>
+    <color name="category_numbers">#FFCA28</color>
+    <color name="category_phrases">#16AFCA</color>
+    <color name="category_body">#FF8A65</color>
+    <color name="category_days">#90A4AE</color>
+</resources>
